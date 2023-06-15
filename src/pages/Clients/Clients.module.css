@@ -1,0 +1,23 @@
+.card_block{
+    width: 100%;
+    margin-left: 120px;
+}
+.card_information{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.card_block_id{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.personal_data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info_name{
+    margin-right: 120px;
+}
